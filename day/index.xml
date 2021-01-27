@@ -1,0 +1,24 @@
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+   <title>Day on Kiera</title>
+   <link>https://hxwz.github.io/day/</link>
+   <description>Recent content in Day on Kiera</description>
+   <generator>Hugo -- gohugo.io</generator>
+   <copyright>Copyright &amp;copy; 2019 - Author Name</copyright>
+   <lastBuildDate>Wed, 27 Jan 2021 19:17:35 +0800</lastBuildDate>
+   
+       <atom:link href="https://hxwz.github.io/day/index.xml" rel="self" type="application/rss+xml" />
+   
+   
+     <item>
+       <title>Day1</title>
+       <link>https://hxwz.github.io/day/day1/</link>
+       <pubDate>Wed, 27 Jan 2021 19:17:45 +0800</pubDate>
+       
+       <guid>https://hxwz.github.io/day/day1/</guid>
+       <description>&lt;h1 id=&#34;第一天&#34;&gt;第一天&lt;/h1&gt;</description>
+     </item>
+   
+ </channel>
+</rss>
